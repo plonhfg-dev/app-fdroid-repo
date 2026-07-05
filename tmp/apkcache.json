@@ -68,5 +68,17 @@
     "size": 10113671,
     "apkName": "pico-clicker.apk",
     "added": 1783232614.442991
+  },
+  ".DS_Store": {
+    "name": ".DS_Store",
+    "apkName": ".DS_Store",
+    "hash": "04ab8f0bc0462b37a2d8fc5b93aa2e21b6b11e03fe3ade1534e1a6300f18c61b",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "04ab8f0",
+    "packageName": "04ab8f0bc0462b37a2d8fc5b93aa2e21b6b11e03fe3ade1534e1a6300f18c61b",
+    "size": 8196,
+    "added": 1783248725.283563
   }
 }

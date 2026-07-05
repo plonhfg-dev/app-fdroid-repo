@@ -50,23 +50,16 @@ sdk_path: /Users/yashtemp/Library/Android/sdk
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-# repo_url: https://MyFirstFDroidRepo.org/fdroid/repo
+# repo_url: https://plonhfg-dev.github.io/app-fdroid-repo/repo
 #
 # Base URL for per-package pages on the website of this repo,
 # i.e. https://f-droid.org/packages/<appid>/ This should be accessible
 # with a browser. Setting it to null or not setting this disables the
 # feature.
-# repo_web_base_url: https://MyFirstFDroidRepo.org/packages/
+# repo_web_base_url:null
 #
-# repo_name: My First F-Droid Repo Demo
-# repo_description: >-
-#   This is a repository of apps to be used with F-Droid. Applications
-#   in this repository are either official binaries built by the
-#   original application developers, or are binaries built from source
-#   by the admin of f-droid.org using the tools on
-#   https://gitlab.com/fdroid.
-
-# As above, but for the archive repo.
+# repo_name: PLONHFG apps
+# repo_description: >-This is a F-droid repo for PLONHFG apps
 #
 # archive_url: https://f-droid.org/archive
 # archive_web_base_url:
@@ -78,7 +71,7 @@ sdk_path: /Users/yashtemp/Library/Android/sdk
 # older ones going to the archive. Set it to 0, and there will be no archive
 # repository, and no need to define the other archive_ values.
 #
-# archive_older: 3
+# archive_older: 0
 
 # The repo's icon defaults to a file called 'icon.png' in the 'icons'
 # folder for each section, e.g. repo/icons/icon.png and
@@ -86,8 +79,7 @@ sdk_path: /Users/yashtemp/Library/Android/sdk
 # set the filename here.  You must still copy it into place in
 # repo/icons/ and/or archive/icons/.
 #
-# repo_icon: myicon.png
-# archive_icon: myicon.png
+# repo_icon: icon.jpg
 
 # This allows a specific kind of insecure APK to be included in the
 # 'repo' section.  Since April 2017, APK signatures that use MD5 are
