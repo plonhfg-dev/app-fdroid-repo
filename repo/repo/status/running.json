@@ -1,0 +1,17 @@
+{
+  "commandLine": [
+    "/opt/homebrew/bin/fdroid update",
+    "--create-metadata"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1783232604821,
+    "index.make repo": 1783232604822,
+    "prepare_apps repo": 1783232604822,
+    "process_apks": 1783232604821,
+    "read_added_date_from_all_apks": 1783232604822,
+    "remove_apks": 1783232604822,
+    "scan_repo_files": 1783232604822
+  },
+  "startTimestamp": 1783212804000,
+  "subcommand": "update"
+}

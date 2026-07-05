@@ -1,0 +1,72 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "localclock.apk": {
+    "hash": "ef312eb95a8a61b7f0f35bb30a43815765191c719638901eedcd811ba4b8aba0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "plonhfg.localclock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "plonhfg.localclock",
+    "versionCode": 1,
+    "name": "Local Clock",
+    "versionName": "1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 37,
+    "sig": "4c1172b58e7044c54c3d3350ea7118e3",
+    "signer": "ff8a284f2885c9cafc35ba84cd7dce12e1126899e7c00d6b41813453e6e0dd88",
+    "size": 11622162,
+    "apkName": "localclock.apk",
+    "added": 1783232614.159444
+  },
+  "pico-clicker.apk": {
+    "hash": "f39f79c2db7f1db2bbae548b770c83807f3807c0c9cc10f81647c0f5b6013ef3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "plonhfg.picoclicker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "plonhfg.picoclicker",
+    "versionCode": 1,
+    "name": "Pico Clicker",
+    "versionName": "1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 37,
+    "sig": "a4685ccf012b065385aed6fbdf239d75",
+    "signer": "cd62e9cd185af7c0c1155fc2173f8e3bd340cb2a3721d813691912694a1ca645",
+    "size": 10113671,
+    "apkName": "pico-clicker.apk",
+    "added": 1783232614.442991
+  }
+}
